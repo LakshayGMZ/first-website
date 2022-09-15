@@ -1,14 +1,14 @@
 body {
-    background-color: cyan;
+    background-color: #222831;
 }
 
 h1 {
-    color: chocolate;
+    color: #00ADB5;
 }
 
 hr {
     border-style: dotted none none;
-    border-color: red;
+    border-color: #393E46;
     border-width: 5px;
     width: 10%;
 }
