@@ -1,0 +1,14 @@
+body {
+    background-color: cyan;
+}
+
+h1 {
+    color: chocolate;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: red;
+    border-width: 5px;
+    width: 10%;
+}
